@@ -1,0 +1,18 @@
+[33m85696e0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m85696e0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33m85696e0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{2}: commit: Initial
+[33mcbdfc9f[m HEAD@{3}: Branch: renamed refs/heads/main to refs/heads/main
+[33mcbdfc9f[m HEAD@{5}: reset: moving to cbdfc9fc9de578be4313707d83a6af2bb80c8185
+[33m6cd2c32[m HEAD@{6}: reset: moving to 6cd2c32223785db5bffc271616ff1d99336b47b1
+[33m6cd2c32[m HEAD@{7}: reset: moving to HEAD
+[33m6cd2c32[m HEAD@{8}: commit: Initial Commit
+[33mcbdfc9f[m HEAD@{9}: reset: moving to cbdfc9fc9de578be4313707d83a6af2bb80c8185
+[33m7833e6e[m HEAD@{10}: commit: SECOD COMMIT
+[33mcbdfc9f[m HEAD@{11}: reset: moving to cbdfc9f
+[33mcbdfc9f[m HEAD@{12}: reset: moving to HEAD
+[33mcbdfc9f[m HEAD@{13}: reset: moving to HEAD
+[33mcbdfc9f[m HEAD@{14}: reset: moving to HEAD
+[33mcbdfc9f[m HEAD@{15}: Branch: renamed refs/heads/master to refs/heads/main
+[33mcbdfc9f[m HEAD@{17}: reset: moving to HEAD~1
+[33m291f22b[m HEAD@{18}: commit: Initial commit
+[33mcbdfc9f[m HEAD@{19}: commit (initial): Initial commit
